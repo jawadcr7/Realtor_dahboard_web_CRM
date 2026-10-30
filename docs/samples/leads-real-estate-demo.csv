@@ -1,0 +1,11 @@
+Name,Phone,Email,City,Source,Date,Intent,Area,Budget,Listing,Notes
+Imran Qureshi,(905) 555-0161,imran.qureshi@example.test,Mississauga,Website,2026-10-09,buyer,Port Credit,850000,,First-time buyer; pre-approved
+Jessica Brown,(416) 555-0162,jessica.brown@example.test,Toronto,Referral,2026-10-10,seller,Leslieville,,https://example.test/listing/1042,Wants valuation before listing
+Asad Mehmood,(647) 555-0163,,Brampton,Facebook,2026-10-10,buyer,Springdale,720000,,Needs 4 bedrooms
+Natalie Green,,natalie.green@example.test,Oakville,Google,2026-10-11,renter,Glen Abbey,3200,,Monthly rent budget
+Saad Akhtar,(905) 555-0165,saad.akhtar@example.test,Mississauga,Phone call,2026-10-12,seller,Churchill Meadows,,,Townhouse; moving in spring
+Rachel Adams,(289) 555-0166,rachel.adams@example.test,Burlington,Website,2026-10-12,buyer,Aldershot,650000,https://example.test/listing/2210,Interested in this condo
+Faisal Rehman,(416) 555-0167,,Toronto,Instagram,2026-10-13,other,Downtown,,,Asking about investment properties
+Emma Thompson,(905) 555-0168,emma.thompson@example.test,Mississauga,Referral,2026-10-14,buyer,Meadowvale,900000,,Relocating from Ottawa
+Kashif Nawaz,(647) 555-0169,kashif.nawaz@example.test,Brampton,Website,2026-10-14,renter,Mount Pleasant,2800,,Family of four
+Laura White,(905) 555-0170,laura.white@example.test,Oakville,Google,2026-10-15,seller,Bronte,,https://example.test/listing/3307,Detached home; flexible timing
